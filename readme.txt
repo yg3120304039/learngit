@@ -1,2 +1,2 @@
-this is a version of git
+this is a new version of git
 git is a free software
